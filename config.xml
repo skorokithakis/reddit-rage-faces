@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets">
+    <name>F7U12 faces in all of reddit.</name>
+    <description>Add F7U12 faces everywhere!</description>
+    <author href="http://poromenos.org" email="poromenos@poromenos.org">Poromenos</author>
+    <icon src="logo.png"/>
+</widget>
